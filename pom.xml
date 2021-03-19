@@ -54,7 +54,7 @@ http://maven.apache.org/maven-v4_0_0.xsd">
 		<dependency>
 			<groupId>org.apache.tomcat.embed</groupId>
 			<artifactId>tomcat-embed-core</artifactId>
-			<version>9.0.36</version>
+			<version>9.0.41</version>
 		</dependency>
 		<dependency>
 			<groupId>org.hibernate</groupId>
